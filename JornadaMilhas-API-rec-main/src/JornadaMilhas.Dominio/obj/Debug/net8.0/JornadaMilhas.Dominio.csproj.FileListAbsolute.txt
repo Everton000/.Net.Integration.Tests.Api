@@ -1,0 +1,12 @@
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\bin\Debug\net8.0\JornadaMilhas.Dominio.deps.json
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\bin\Debug\net8.0\JornadaMilhas.Dominio.dll
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\bin\Debug\net8.0\JornadaMilhas.Dominio.pdb
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\JornadaMilhas.Dominio.csproj.AssemblyReference.cache
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\JornadaMilhas.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\JornadaMilhas.Dominio.AssemblyInfoInputs.cache
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\JornadaMilhas.Dominio.AssemblyInfo.cs
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\JornadaMilhas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\JornadaMilhas.Dominio.dll
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\refint\JornadaMilhas.Dominio.dll
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\JornadaMilhas.Dominio.pdb
+C:\Users\evert\Desenvolvimento\Alura\JornadaMilhas-API-rec-main\JornadaMilhas-API-rec-main\src\JornadaMilhas.Dominio\obj\Debug\net8.0\ref\JornadaMilhas.Dominio.dll

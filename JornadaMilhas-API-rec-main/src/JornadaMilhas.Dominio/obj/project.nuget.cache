@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0PWDT1GQwR1s7tzwT4c0GoHnz6j8joO/uQKP4w27F9IJ2GebhNoij02to5VXL3/1VCksfONo815IjTsH4ggOMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evert\\Desenvolvimento\\Alura\\JornadaMilhas-API-rec-main\\JornadaMilhas-API-rec-main\\src\\JornadaMilhas.Dominio\\JornadaMilhas.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evert\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.1\\microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
